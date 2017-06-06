@@ -1,0 +1,7 @@
+#Tue Jun 06 16:55:36 CST 2017
+base.0=D\:\\Github\\Dagger-kapt-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b8772032fd48d3693fb81d8d8f09d0451cde5649
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Github\\Dagger-kapt-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fb343ae20eee6311ff69ed24f40ab71a7f573538\\classes.dex
+base.1=D\:\\Github\\Dagger-kapt-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fb343ae20eee6311ff69ed24f40ab71a7f573538
+file.0=D\:\\Github\\Dagger-kapt-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b8772032fd48d3693fb81d8d8f09d0451cde5649\\classes.dex
